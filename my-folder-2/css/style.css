@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,500,700,900&display=swap");
+@import url("components/card.css");
+@import url("components/button-gray.css");
+@import url("components/button-blue.css");
+@import url("components/container.css");
+@import url("components/list-inline.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/flex.css");
+
+body{
+  background: rgb(240,240,240);
+  color: rgb(50,50,50);
+  font-family: 'Lora', serif;
+  line-height: 1.8;
+  font-size: 16px;
+  margin: 0px;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  width: 400px;
+  font-size: 32px;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+h2,h3{
+  color:#2D2B4E;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+p {
+  padding-bottom: 10px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#logo{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+#btn-banner{
+  padding: 10px 10px;
+}
+
+#list-bottom-margin{
+  margin-bottom: 10px;
+}
+
+.words-right{
+  margin:0px 0px;
+  padding:0px;
+}
+
+.roboto-sans-serif{
+  font-family: 'Roboto', sans-serif;
+}
+
+.text-justify{
+  text-align: justify;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-bold{
+  font-weight: bold;
+}
+
+.top-bottom-margin-zero {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline > li {
+  display: inline;
+  padding: 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

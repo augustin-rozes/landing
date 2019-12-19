@@ -1,0 +1,12 @@
+.btn-gray {
+  background-color: rgb(150,150,150);
+  font-weight: 600;
+  font-size: 25px;
+  margin: 0px 10px;
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+.btn-gray:hover {
+  background-color: black;
+  text-decoration: none;
+}
